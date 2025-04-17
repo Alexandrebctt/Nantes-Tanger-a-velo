@@ -86,22 +86,24 @@
 
 <section id="a-propos">
   <h2>Qui sommes-nous ?</h2>
-  <p>Nous sommes une équipe de jeunes motivés qui ont décidé d’unir sport et solidarité. Notre objectif est simple : mettre notre énergie au service d’une cause qui nous dépasse.</p>
+  <p>Je m'appelle Alexandre, j'ai 17 ans, je suis lycéen à Nantes et je pratique le vélo de course.L’idée de ce projet est née à l’été 2023, portée par ma passion du vélo et mon envie de relever des défis solidaires. En avril 2023, j’ai parcouru 515 km entre Nantes et Paris pour financer une opération chirurgicale pour un enfant avec La Chaîne de l’Espoir. 
+Fort de cette première expérience, je souhaite aujourd’hui aller plus loin avec un nouveau défi : faire Nantes Tanger à vélo. Ce voyage symbolique durera 14 jours pour 1800km, traversera la France, l’Espagne et le Maroc, trois pays qui me sont chers, par leur culture, leurs paysages et leur richesse humaine. Une année complète de préparation a été lancée : entraînements hebdomadaires, semimarathon en décembre 2024, et un premier repérage à vélo en Espagne durant l’été 2024. Je m’entoure à nouveau de La Chaîne de l’Espoir et souhaite mobiliser des partenaires partageant les valeurs de solidarité, de sport et de proximité (comme Intersport, l’association Made In Cambodge, ou encore la MFR Saint-Michel-Mont-Mercure) </p>
 </section>
 
 <section id="mission">
   <h2>Notre mission</h2>
-  <p>À travers des événements sportifs comme des courses, des tournois ou des défis collectifs, nous collectons des fonds pour soutenir l’éducation et des projets locaux dans des pays en développement.</p>
+  <p>Ce projet est à la fois un défi sportif, un engagement humanitaire et une aventure personnelle. Il vise à sensibiliser sur l'accès aux soins médico-chirurgicaux des personnes vulnérables, en particulier les enfants, tout en récoltant des fonds pour leur permettre d’être opérés et de retrouver une vie active.</p>
 </section>
 
 <section id="soutien">
   <h2>Nous soutenir</h2>
-  <p>Vous pouvez nous aider en partageant notre projet, en venant courir avec nous, ou en faisant un don. Chaque geste compte !</p>
+  <p>Vous pouvez nous aider en partageant notre projet, faisant un don. Chaque geste compte ! Tous les dons de cette cagnotte seront directement reversés à La Chaîne de l’Espoir afin de 
+financer les opérations pour des enfants dans le besoin sans accès aux soins.</p>
   <a class="btn" href="https://www.helloasso.com/" target="_blank">Faire un don</a>
 </section>
 
 <footer>
-  <p>Contact : projet.sportif@exemple.com | Instagram : @notreprojet</p>
+  <p>Contact : bouchet.alexandre07@gmail.com | Instagram : @nantes-tanger</p>
 </footer>
 
 </body>
