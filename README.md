@@ -75,7 +75,7 @@
 <body>
 
 <header>
-  <h1>Courir pour un Monde Meilleur</h1>
+  <h1>NANTES-TANGER pour que des vies puissent changer</h1>
 </header>
 
 <nav>
